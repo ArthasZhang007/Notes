@@ -1,1 +1,0 @@
-1.zip result.zip `ll | grep '.json\|.png' | awk '{print $NF}'`
