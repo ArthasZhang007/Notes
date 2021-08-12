@@ -19,3 +19,13 @@ https://github.com/tanakh/cmdline
 把流程可视化成流程图的高级工具
 
 # freetype
+
+# zsh || fish
+比更先进的shell
+
+vim ~/.zshrc 
+# vimium
+模仿vim哲学完全用左键盘高效操作网页界面的chrome插件
+
+# regex 
+c.runoob.com/front-end/854
